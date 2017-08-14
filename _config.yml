@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "devcision"
+title                    : "Software Development Blog"
 title_separator          : "-"
 name                     : "devcision"
 description              : "Software Development Blog."
@@ -77,12 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Devcision"
+  name             : "devcision"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Web developer"
-  location         : "South Africa"
+  location         : "Internet"
   email            : info@devcision.com
-  uri              : http://wwww.devcisionl.com
+  uri              : http://wwww.devcision.com
   bitbucket        :
   codepen          :
   dribbble         :
@@ -101,7 +101,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : https://twitter.com/devcision
+  twitter          : devcision
   vine             :
   weibo            :
   xing             :
